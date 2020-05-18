@@ -1,0 +1,14 @@
+WEbpack (import/eexports)
+ Babel
+ Scss
+ Eslint
+ 2 Modes
+    - Dev
+      Dev Server, SourceMaps, Eslint, Not Mini Js and CSS
+    - Prod
+    Mini Code
+
+Git
+
+  Production
+  Development
